@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sheikhaatif
-- 👀 I’m interested in iOS, Swift, ObjC, VIPER, Flutter, SwiftUI, RxSwift
+- 👀 I’m interested in iOS, Swift, ObjC, VIPER, Flutter, SwiftUI, RxSwift, Node.js, MongoDB
 - 🌱 I’m currently learning Dart & Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
