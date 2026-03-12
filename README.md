@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @sheikhaatif
-- 👀 I’m interested in iOS, Swift, ObjC, VIPER, Flutter, SwiftUI, RxSwift, Node.js, MongoDB
-- 🌱 I’m currently learning Dart & Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... 
+- 👀 I’m interested in iOS, Swift, SwiftUI, ObjC, VIPER, Flutter, SwiftUI, RxSwift, Node.js, MongoDB
 
 <!---
 sheikhaatif/sheikhaatif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
